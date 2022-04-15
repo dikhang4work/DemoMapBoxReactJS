@@ -45,7 +45,7 @@ function App() {
         inputClass="form-control search"
         onSuggestionSelect={_suggestionSelect}
         country="vn"
-        resetSearch={true}
+        resetSearch
       />
     </div>
   );
